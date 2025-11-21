@@ -67,4 +67,5 @@ app/src/main/java/com/pro/shopfee/
 ## 👥 Phân quyền
 
 - **User**: Xem sản phẩm, đặt hàng, quản lý đơn hàng
-- **Admin**: Quản lý sản phẩm, đơn hàng, voucher (anh chị hr or dev check admin sử dụng email có format `@admin.com`) giúp em <3
+- **Admin**: Quản lý sản phẩm, đơn hàng, voucher, xem feedback
+  
